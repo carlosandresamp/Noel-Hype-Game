@@ -6,7 +6,7 @@ Este jogo foi desenvolvido por **@carlosandre_samp** e traz um design divertido 
 
 ## 🚀 **Como Jogar**?
 
-1. **Objetivo**: O objetivo do jogo é guiar o **Noel** através da chaminé, sem colidir nas nuvens. A cada erro, o jogo será encerrado, e você terá que reiniciar para tentar melhorar sua pontuação!
+1. **Objetivo**: O objetivo do jogo é guiar o **Noel** em uma corrida sem fim sem colidir nas chaminés. A cada erro, o jogo será encerrado, e você terá que reiniciar para tentar melhorar sua pontuação!
 
 2. **Controles**: O jogo é simples e requer apenas um clique para iniciar. Após o "Game Over", você pode clicar no botão "Reiniciar" para tentar novamente.
 
@@ -15,9 +15,9 @@ Este jogo foi desenvolvido por **@carlosandre_samp** e traz um design divertido 
 ### 1. **Tela Principal**
    - **Título do Jogo**: Exibe o nome "Noel Hype Game" na parte superior da tela.
    - **Imagens do Jogo**: O jogo inclui animações e imagens que são exibidas durante a jogabilidade:
-     - **Noel**: A figura animada do Noel desce pela chaminé.
-     - **Chaminé**: A chaminé pela qual o Noel deve descer.
-     - **Nuvens**: Elementos que o Noel deve evitar.
+     - **Noel**: A figura animada do Noel correndo.
+     - **Chaminé**: A chaminé pela qual o Noel tem que pular por cima.
+     - **Nuvens**: Elementos gráficos.
    - **Botão de Iniciar**: Um botão para começar a partida, dando início ao jogo.
 
 ### 2. **Tela de Game Over**
